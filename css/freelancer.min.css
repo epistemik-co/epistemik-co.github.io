@@ -295,12 +295,24 @@ form .row:first-child .floating-label-form-group{
 a{
     color:#D13530
 }
+a-white{
+    color: #FFF;
+}
 a:active,a:focus,a:hover{
     color:#D13530
 }
 .link:hover{
     background-color: #D13530;
     color: #FFF;
+    text-decoration: none;
+}
+.link-white{
+    color:  #FFF;
+    text-decoration: none;
+}
+.link-white:hover{
+    background-color: #FFF;
+    color: #D13530;
     text-decoration: none;
 }
 .btn{
