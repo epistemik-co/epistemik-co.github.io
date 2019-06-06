@@ -298,9 +298,9 @@ a{
 a-white{
     color: #FFF;
 }
-a:active,a:focus,a:hover{
+/* a:active,a:focus,a:hover{
     color:#D13530
-}
+} */
 .link:hover{
     background-color: #D13530;
     color: #FFF;
